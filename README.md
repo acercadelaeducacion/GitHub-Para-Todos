@@ -1,4 +1,15 @@
-GitHub-Para-Todos
-=================
+# Modificame
 
-Arena de juego para aprender a usar GitHub
+Este es un primer texto para *modificar*, **cambiar** y jugar.
+
+> Es nuestro arenero personal
+
+Pueden:
+
+- Borrarme
+- Modificarme
+- Dejarme como está y agregar nuevas carpetas
+- [Desde acá me "copian"]()
+
+![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+
